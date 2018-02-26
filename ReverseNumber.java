@@ -6,7 +6,7 @@ class ReverseaNumber {
 	
 	public static void main(String[] args){
 
-int num = 123456789;
+int num = 452;
 int reversenum = 0;
 
 while(num !=0){
